@@ -1,0 +1,52 @@
+body {
+  background-color: deeppink;
+}
+  .object
+  {
+    font-size: 20px;
+    background-color: plum !important;
+    width: 100%;
+  }
+
+  .object span {
+    white-space: pre-line;
+    color: darkviolet;
+  }
+
+  #header {
+     background-color: darkviolet;
+     padding: 20px;
+     padding-bottom: 10px !important;
+     color: powderblue;
+     border: 10px solid powderblue;
+     border-bottom-width: 0px !important;
+  }
+
+  .header_div {
+    background-color: powderblue;
+    float: none;
+    color: darkviolet;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px plum;
+    padding: 10px;
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: powderblue;
+    color: darkviolet;
+    box-shadow: 5px 5px 18px darkslategrey;
+    text-align: center;
+    line-height: 3;
+    font-weight: 500;
+  }
+
+  canvas {
+    border: 5px solid powderblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px darkslategrey;
+    margin-top: 170px;
+  }
+ 
